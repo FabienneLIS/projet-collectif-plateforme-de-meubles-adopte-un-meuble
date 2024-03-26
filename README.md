@@ -40,6 +40,9 @@ Projet collectif qui s'est déroulé sur 2 semaines. Le projet comprenait 1 grou
 ### IDE  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## visuel du site
+![page d'accueil du site](/front/adopteunmeuble.png)
+
 ## Installation : 
 1. Cloner le projet
 2. Naviguer jusqu'au dossier front -> `npm install`
