@@ -7,16 +7,16 @@
 Projet collectif qui s'est déroulé sur 2 semaines. Le projet comprenait 1 groupe de 10 personnes divisé en 2 groupes de 5 personnes : une équipe Back et une équipe Front. Les équipes ont permuté la deuxième semaine.
 
 ## dévelloppeurs/ses
-![Audrey Gueguen]
-![Alexis Moulière](https://github.com/realalexis)
-![Anna Tehiva](https://github.com/annatehiva)
-![Florentin Corbiat](https://github.com/CorbiatFlorentin)
+![Audrey Gueguen](https://github.com/AudreyGgn)  
+![Alexis Moulière](https://github.com/realalexis)  
+![Anna Tehiva](https://github.com/annatehiva)  
+![Florentin Corbiat](https://github.com/CorbiatFlorentin)  
 ![Fabienne Lis](https://github.com/FabienneLIS)  
-![Maguelone Guinaud](https://github.com/magueloneguinaud) 
-![Tianhong Huang](https://github.com/Tianhong258)
-![Mathurin Sekine](https://github.com/lemathurin)
-![Marie Le Lamer](https://github.com/MarieLeLamer) 
-![Yannick Oudin](https://github.com/oudinyannick)
+![Maguelone Guinaud](https://github.com/magueloneguinaud)  
+![Tianhong Huang](https://github.com/Tianhong258)  
+![Mathurin Sekine](https://github.com/lemathurin)  
+![Marie Le Lamer](https://github.com/MarieLeLamer)  
+![Yannick Oudin](https://github.com/oudinyannick)  
 
 ## Technos/Outils : 
 
