@@ -1,4 +1,5 @@
 # Adopte un meuble
+
 ## Projet Collectif : Plateforme de vente de meubles
  
 
@@ -35,8 +36,10 @@ Projet collectif qui s'est déroulé sur 2 semaines. Le projet comprenait 1 grou
 ![Express.js](https://img.shields.io/badge/express.js-100000?style=for-the-badge&logo=express.js&logoColor=000000&labelColor=FFFFFF&color=FFFFFF)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/Heroku-100000?style=for-the-badge&logo=Heroku&logoColor=BA4CD0&labelColor=FFFFFF&color=FFFFFF)  
+
 ### IDE  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## Installation : 
 1. Cloner le projet
 2. Naviguer jusqu'au dossier front -> `npm install`
@@ -48,3 +51,11 @@ Projet collectif qui s'est déroulé sur 2 semaines. Le projet comprenait 1 grou
 1. Naviguer jusqu'au dossier front -> `npm run dev`
 2. Naviguer jusqu'au dossier back -> `npm start`
    
+## Compétences acquises
+- Création d’un back avec nodejs et express
+- Intégration de module React/Vite avec Javascript
+
+----
+----
+## Licence
+Pas de licence, c'est un projet d’étude.
