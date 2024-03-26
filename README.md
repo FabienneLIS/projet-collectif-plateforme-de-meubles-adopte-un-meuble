@@ -14,7 +14,7 @@ Projet collectif qui s'est déroulé sur 2 semaines. Le projet comprenait 1 grou
 ![Fabienne Lis](https://github.com/FabienneLIS)  
 ![Maguelone Guinaud](https://github.com/magueloneguinaud)  
 ![Tianhong Huang](https://github.com/Tianhong258)  
-![Mathurin Sekine](https://www.mathurinsekine.fr/fr)  
+[Mathurin Sekine](https://www.mathurinsekine.fr/fr)  
 ![Marie Le Lamer](https://github.com/MarieLeLamer)  
 ![Yannick Oudin](https://github.com/oudinyannick)  
 
